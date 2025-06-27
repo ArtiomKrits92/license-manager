@@ -24,9 +24,8 @@ Designed to simplify offboarding by quickly identifying which licenses an employ
 | Hosting    | Internal AWS Linux machine |
 
 ---
-
-## 📁 Project Structure
-
+## 📁 Project Structure 
+```
 license-manager/
 │
 ├── backend/ # Python Flask backend
@@ -34,9 +33,9 @@ license-manager/
 ├── db/ # SQLite database file lives here
 ├── README.md
 └── .gitignore
+```
 
 ---
-
 ## 🚧 Project Status
 
 🟢 Active — Currently in development phase.
